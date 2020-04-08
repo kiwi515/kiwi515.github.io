@@ -1,14 +1,10 @@
-## File Specifications
-In case you are a programmer and wish to develop your own tools related to the BRSAR, wish to edit parts of files manually, or are just curious about the structure of the formats in general, you can look at the specifications of the different files used within the BRSAR below.
+## kiwi website
 
-[Common Structures](specs/common.md) - Common structures found throughout the sound archive and its sub-files.
+### B
+[BWCH](formats/bwch.md) - Structure of the BWCH filetype, used in Wii Sports for the bowling training games.
 
-[Sound Archive (BRSAR)](specs/soundArchive.md) - Sound Archive that contains everything.
+### P
+[PMP](formats/pmp.md) - Structure of the PMP filetype, used in Wii series games primarily for object placement/attributes.
 
-[Bank (BRBNK)](specs/bank.md) - Bank that contains instrument data.
 
-[Wave Sound Data (BRWSD)](specs/waveSoundData.md) - Contains information about how to play Waves.
 
-[Wave Archive (BRWAR)](specs/waveArchive.md) - Wave Archive that contains Waves.
-
-[Wave (BRWAV)](specs/wave.md) - Wave that contains audio sampling data.

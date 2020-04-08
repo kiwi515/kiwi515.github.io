@@ -1,4 +1,4 @@
-## /filetypes/  
+## /formats/  
   
   
 ### Unidentifiable Raw Files

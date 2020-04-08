@@ -8,7 +8,7 @@
   
 ## B
 ---
-[BWCH](/BWCH.md) - Structure of the BWCH filetype, used in *Wii Sports* for the bowling training games.  
+[BWCH](./BWCH.md) - Structure of the BWCH filetype, used in *Wii Sports* for the bowling training games.  
   
 ## G
 ---

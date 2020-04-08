@@ -1,11 +1,6 @@
 # /formats/  
   
   
-## Unidentifiable Raw Files
----
-[Find Mii Level Data](/findMii.md) - Structure of the data used in *Wii Play*'s *Find Mii* minigame.  
-[Tanks! Data](/tanks.md) - Structure of the *Tanks!* level/param data seen in *Wii Play*.  
-  
 ## B
 ---
 [BWCH](/BWCH.md) - Structure of the BWCH filetype, used in *Wii Sports* for the bowling training games.  
@@ -23,4 +18,7 @@
 ---
 [TAG](/tag.md) - Structure of the TAG filetype, used in *Wii Fit* for object configuration.  
   
-
+## Unidentifiable Raw Files
+---
+[Find Mii Level Data](/findMii.md) - Structure of the data used in *Wii Play*'s *Find Mii* minigame.  
+[Tanks! Data](/tanks.md) - Structure of the *Tanks!* level/param data seen in *Wii Play*.  

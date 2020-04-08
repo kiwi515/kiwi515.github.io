@@ -1,4 +1,5 @@
-## /filetypes/
+## /filetypes/  
+  
   
 ### Unidentifiable Raw Files
 ---
@@ -16,7 +17,8 @@
 ### P
 ---
 [PMP](formats/pmp.md) - Structure of the PMP filetype, used in Wii series games for object configuration.
-[PTH](formats/pth.md) - Structure of the PTH filetype, used in Wii Fit as an alternative to PMP routes.
+[PTH](formats/pth.md) - Structure of the PTH filetype, used in Wii Fit as an alternative to PMP routes.  
+
 ### T
 ---
 [TAG](formats/tag.md) - Structure of the TAG filetype, used in Wii Fit for object configuration.

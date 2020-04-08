@@ -5,8 +5,9 @@ Both Picking Up Spares and Spin Control both use BWCH files, meaning that you *c
 Each stage only supports up to 10 pins and 15 gates, however the BWCH format seems to be able to specify the amount of stages that exist within the file,
 even though *Wii Sports* is hardcoded to load a certain amount.  
 
+## Structure
 
-## Header  
+### Header  
 Each BWCH file begins with a `0x44 (52)` byte header, structured as follows:
 
 | **Offset** | **Size** | **Type** | **Description** |
@@ -19,7 +20,7 @@ Each BWCH file begins with a `0x44 (52)` byte header, structured as follows:
 |0x10 + **L**|0x04|u32|Stage count|
   
   
-## Stage  
+### Stage  
 The header is followed by X stages, with X representing the stage count u32 in the header.
 
 | **Offset** | **Size** | **Type** | **Description** |
@@ -46,4 +47,12 @@ The data for a pin consists of seemingly obfuscated boolean values:
   
     
 **Thanks to KILL043/GibHaltmannKill for doing the reverse engineering work necessary to obtain this reference material.**  
+  
+  
+## Tools that can edit BWCH  
+
+[Spin Controller](./tools/BWCH/SpinController.exe) by KILL043/GibHaltmannKill
+
+
+
 [Back to Formats](formats.md)

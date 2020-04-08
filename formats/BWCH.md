@@ -8,7 +8,7 @@ even though *Wii Sports* is hardcoded to load a certain amount.
 ## Structure
 
 ### Header  
-Each BWCH file begins with a `0x44 (52)` byte header, structured as follows:
+Each BWCH file begins with a header, structured as follows:
 
 | **Offset** | **Size** | **Type** | **Description** |
 |------------|---------|----------|-----------------|

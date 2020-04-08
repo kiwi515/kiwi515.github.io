@@ -9,3 +9,8 @@
 
 ## Documents  
 [File formats](/formats/formats.md) - Information and tools on many Nintendo file formats.
+
+
+## Socials  
+Twitter - @kiwi_szs  
+Discord - kiwi#5018

@@ -28,7 +28,7 @@ The header is followed by X stages, with X representing the stage count u32 in t
 |0x100|0x50|Pin[10]|Pin data for pins 0-9|
 
 #### Gate
-The data for a gate consists of a few variables:
+The data for a gate consists of a few variables:  
 | **Offset** | **Size** | **Type** | **Description** |
 |------------|---------|----------|-----------------|
 |0x00|0x04|single|Gate X size (length)|
@@ -37,7 +37,7 @@ The data for a gate consists of a few variables:
 |0x0C|0x04|single|Gate Z position (relative to bowling lane)|  
   
 #### Pin
-The data for a pin consists of seemingly obfuscated boolean values:
+The data for a pin consists of seemingly obfuscated boolean values:  
 | **Offset** | **Size** | **Type** | **Description** |
 |------------|---------|----------|-----------------|
 0x00|0x08|single[2]|Pin status. Both must be greater or equal to `-1000f` for the pin to show. If at least one of the singles is less than `-1000f`, the pin will not appear.|  

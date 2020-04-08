@@ -7,16 +7,16 @@
   
 ## G
 ---
-[GEO](/geo.md) - Structure of the GEO filetype, used in *Wii Party*.  
+[GEO](/GEO.md) - Structure of the GEO filetype, used in *Wii Party*.  
   
 ## P
 ---
-[PMP](/pmp.md) - Structure of the PMP filetype, used in *Wii* series games for object configuration.  
-[PTH](/pth.md) - Structure of the PTH filetype, used in *Wii Fit* as an alternative to PMP routes.  
+[PMP](/PMP.md) - Structure of the PMP filetype, used in *Wii* series games for object configuration.  
+[PTH](/PTH.md) - Structure of the PTH filetype, used in *Wii Fit* as an alternative to PMP routes.  
 
 ## T
 ---
-[TAG](/tag.md) - Structure of the TAG filetype, used in *Wii Fit* for object configuration.  
+[TAG](/TAG.md) - Structure of the TAG filetype, used in *Wii Fit* for object configuration.  
   
 ## Unidentifiable Raw Files
 ---

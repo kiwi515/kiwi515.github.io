@@ -23,6 +23,4 @@
 ---
 [TAG](formats/tag.md) - Structure of the TAG filetype, used in *Wii Fit* for object configuration.  
   
-  
-  
-[Back](./)
+

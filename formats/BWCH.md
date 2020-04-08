@@ -46,4 +46,4 @@ The data for a pin consists of seemingly obfuscated boolean values:
   
     
 **Thanks to KILL043/GibHaltmannKill for doing the reverse engineering work necessary to obtain this reference material.**  
-[Back to Formats](/formats/formats.md)
+[Back to Formats](formats.md)

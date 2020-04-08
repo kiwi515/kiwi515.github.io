@@ -51,7 +51,7 @@ The data for a pin consists of seemingly obfuscated boolean values:
   
 ## Tools that can edit BWCH  
 
-[Spin Controller](./tools/BWCH/SpinController.exe) by KILL043/GibHaltmannKill
+[Spin Controller](/tools/BWCH/SpinController.exe) by KILL043/GibHaltmannKill
 
 
 

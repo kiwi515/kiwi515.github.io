@@ -45,7 +45,7 @@ Each PMP file begins with a header, structured as follows:
 |0x02|0x04|u32|Unknown|
 |0x06|0x02|u16|Route group ID|
 |0x08|0x12|string|Internal route name (if applicable)|
-|0x1A|0x02|u16|Route point index|
+|0x1A|0x02|u16|Index of first route point|
 |0x1C|0x05|u32|Unknown|
   
 ### Point Data

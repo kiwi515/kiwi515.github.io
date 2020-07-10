@@ -6,7 +6,7 @@
   
 [driftTool](https://github.com/kiwi515/driftTool) (Python) - Drift effect colour changer for Mario Kart Wii.
   
-[Kiwi Sports](/kwsp/KiwiSports.md) - Work-in-progress Wii Sports mod, with many planned ASM modifications.  
+[Kiwi Sports](/kwsp/KiwiSports.html) - Work-in-progress Wii Sports mod, with many planned ASM modifications.  
   
 ## Documents  
 [File formats](/formats/formats.md) - Information and tools on many Nintendo file formats.

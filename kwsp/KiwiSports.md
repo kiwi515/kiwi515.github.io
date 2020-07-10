@@ -7,6 +7,7 @@ Things like menus aren't fully changed, and there are no other important modific
 ## Downloads  
 - Golf beta1 (7/10/20): [https://bit.ly/KiwiSportsB1](https://bit.ly/KiwiSportsB1)  
   - Removed erroneous river environment sound effects from Hole 6's course info.
+  - Kiwi Sports now includes my Pause Anywhere code, you can pause at any time in any sport (really makes golf runs less taxing)
 
  
 ## Usage  

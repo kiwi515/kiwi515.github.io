@@ -4,7 +4,12 @@
 ## Downloads  
 - Golf beta1 (7/10/20): [https://bit.ly/KiwiSportsB1](https://bit.ly/KiwiSportsB1)  
   - Removed erroneous river environment sound effects from Hole 6's course info.
-  - Kiwi Sports now includes my Pause Anywhere code, you can pause at any time in any sport (really makes golf runs less taxing)
+  - Included Gecko codes:
+    - Unlimited Wii Fitness tests! Train to your hearts content!
+    - All training games unlocked from the start! (This is important because Kiwi Sports needs its own save file.)
+    - Returning Balls has been shortened from 50 -> 30.
+    - Pause anywhere, anytime! You are now no longer unable to pause during certain actions in sports. You can also *pause in Wii Fitness* now, and can choose `Start over` if the current Wii Fitness minigame isn't going well, or `Quit` to exit the fitness test.
+  
   
 Please note that Kiwi Sports is in very early development;  
 This release is purposed as a golf-beta, there are more features that will be added in golf, however this is a good baseline 9-hole support release.

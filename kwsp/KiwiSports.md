@@ -20,8 +20,6 @@ To install this mod, simply extract the main ZIP file, and copy all of the folde
 A copy of Riivolution is included with the download, along with the codehandler, so that if you have never even heard of Riivolution before, you will not need to install anything yourself.  
   
 ## Credits  
-
-## Credits  
 - Aaron (AerialX), tueidj, Tempus, and megazig for developing [Riivolution](https://rvlution.net/wiki/Riivolution/), the backbone of console support for Kiwi Sports  
 - JoshuaMKW for [GeckoLoader](https://github.com/JoshuaMKW/GeckoLoader), and [porting PyiiASMH](https://github.com/JoshuaMKW/pyiiasmh) from Python 2 to Python 3  
 - Nuke, brkirch, Y.S, and Kenobi for their work on [Gecko OS](https://wiibrew.org/wiki/Gecko_OS)  

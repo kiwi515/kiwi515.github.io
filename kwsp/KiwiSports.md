@@ -8,7 +8,7 @@
     - Unlimited Wii Fitness tests! Train to your hearts content!
     - All training games unlocked from the start! (This is important because Kiwi Sports needs its own save file.)
     - Returning Balls has been shortened from 50 -> 30.
-    - Pause anywhere, anytime! You are now no longer unable to pause during certain actions in sports. You can also *pause in Wii Fitness* now, and can choose `Start over` if the current Wii Fitness minigame isn't going well, or `Quit` to exit the fitness test.
+    - Pause anywhere, anytime! You are now no longer unable to pause during certain actions in sports. You can even *pause in Wii Fitness* now, and can choose `Start over` if the current Wii Fitness minigame isn't going well, or `Quit` to exit the fitness test.
   
   
 Please note that Kiwi Sports is in very early development;  

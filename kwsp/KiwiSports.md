@@ -5,7 +5,7 @@
 - Golf beta1 (7/10/20): [https://bit.ly/KiwiSportsB1](https://bit.ly/KiwiSportsB1)  
   - Removed erroneous river environment sound effects from Hole 6's course info.
   - Included Gecko codes:
-    - Unlimited Wii Fitness tests! Train to your hearts content!
+    - Unlimited Wii Fitness tests! Train to your heart's content!
     - All training games unlocked from the start! (This is important because Kiwi Sports needs its own save file.)
     - Pause anywhere, anytime! You are now no longer unable to pause during certain actions in sports. You can even *pause in Wii Fitness* now, and can choose `Start over` if the current Wii Fitness minigame isn't going well, or `Quit` to exit the fitness test.
   

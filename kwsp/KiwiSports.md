@@ -2,7 +2,7 @@
  
  
 ## Downloads  
-- Golf beta1 (7/10/20): [https://bit.ly/KiwiSportsB1](https://bit.ly/KiwiSportsB1)  
+- Golf beta1 (7/10/20): [https://bit.ly/kwspB1](https://bit.ly/kwspB1)  
   - Removed erroneous river environment sound effects from Hole 6's course info.
   - Included Gecko codes:
     - Unlimited Wii Fitness tests! Train to your heart's content!

@@ -3,7 +3,7 @@
  
 ## Downloads  
 - Golf beta1 (7/10/20): [https://bit.ly/kwspB1](https://bit.ly/kwspB1)  
-  - Removed erroneous river environment sound effects from Hole 6's course info.
+  - Removed river sound effects from Hole 6.
   - Included Gecko codes:
     - Unlimited Wii Fitness tests! Train to your heart's content!
     - All training games unlocked from the start! (This is important because Kiwi Sports needs its own save file.)
@@ -33,5 +33,3 @@ A copy of Riivolution is included with the download, along with the codehandler,
 - Nintendo EAD for developing the base game, [Wii Sports](https://www.amazon.com/Nintendo-CS95SMB-BRK-Wii-Sports/dp/B0017Q4DGI), and its sequel, [Wii Sports Resort](https://www.amazon.com/Wii-Sports-Resort/dp/B004W1IX1G)  
   
   
-Thank you for giving this a try, I've put a lot of effort into this and I really hope you have fun.  
-~ Kiwi

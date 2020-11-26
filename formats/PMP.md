@@ -61,7 +61,7 @@ Each PMP file begins with a header, structured as follows:
   
 ## Tools that can edit PMP  
 
-[PMP Editor](/tools/PMP/PMPEditor.exe) by KILL043/GibHaltmannKill and [JimmyKaz](https://www.youtube.com/channel/UCUplC9g5Clc2PLr293HDPUA)
+[PMP Editor](/tools/bin/PMP/PMPEditor.exe) by KILL043/GibHaltmannKill and [JimmyKaz](https://www.youtube.com/channel/UCUplC9g5Clc2PLr293HDPUA)
 
 
 
